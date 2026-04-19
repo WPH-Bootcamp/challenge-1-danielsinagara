@@ -1,1 +1,8 @@
 /* code here */
+
+.empty-box{
+    height:4rem;
+    width:4rem;
+    margin:0.25rem;
+    border:solid 5px black;
+}
